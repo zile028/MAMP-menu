@@ -37,7 +37,7 @@
                 </li>
                 <li class="nav-item">
                     <a class="nav-link btn btn-secondary"
-                        href="http://localhost:8888/MAMP/phpmyadmin.php?lang=en">phpMyAmin</a>
+                        href="http://localhost:8888/MAMP/phpmyadmin.php?lang=en">phpMyAdmin</a>
                 </li>
             </ul>
         </div>
